@@ -1,2 +1,12 @@
 # OS X
 .DS_Store
+.git
+.vs
+platforms
+plugins
+bin
+bld
+*.jsproj
+*.jsproj.*
+*.sln
+taco.json
